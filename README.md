@@ -108,7 +108,7 @@ Transition this prototype from a manual Google Colab notebook into a production-
 
 ## Get in Touch
 
-Feel free to reach out for further discussions regarding this pipeline or other data engineering projects.
+Feel free to reach out for further discussions regarding this analysis or other data engineering projects.
 
 * **LinkedIn:** [Brightone Onyango](https://www.linkedin.com/in/brightone-onyango-109614263)
 * **GitHub:** [georgixxx](https://github.com/georgixxx)
