@@ -81,7 +81,7 @@ high_risk_trends[['Year', 'Value']].tail()
 
 ### Vulnerability Trend Chart
 
-![Vulnerability Analysis: Population living in slums (% of urban population)](assets/vulnerability_trend_kenya.png)
+![Vulnerability Analysis: Population living in slums (% of urban population)](output/vulnerability_trend_kenya.png)
 
 *Figure 1: Vulnerability trend from 2000 to 2022 against the 45% NGO intervention threshold.*
 
