@@ -79,6 +79,12 @@ print(f"Total High-Risk Data Points Found: {len(high_risk_trends)}")
 high_risk_trends[['Year', 'Value']].tail()
 ```
 
+### Vulnerability Trend Chart
+
+![Vulnerability Analysis: Population living in slums (% of urban population)](assets/vulnerability_trend_kenya.png)
+
+*Figure 1: Vulnerability trend from 2000 to 2022 against the 45% NGO intervention threshold.*
+
 ---
 
 ## 5. Strategic Recommendations
@@ -97,3 +103,17 @@ Transition this prototype from a manual Google Colab notebook into a production-
 ---
 
 *Report prepared by Brightone Onyango, Data Automation Specialist and Technical Writer.*
+
+---
+
+## Get in Touch
+
+Feel free to reach out for further discussions regarding this pipeline or other data engineering projects.
+
+* **LinkedIn:** [Brightone Onyango](https://www.linkedin.com/in/brightone-onyango-109614263)
+* **GitHub:** [georgixxx](https://github.com/georgixxx)
+* **Email:** [georgebrixomuga@gmail.com](mailto:georgebrixomuga@gmail.com)
+* **Portfolio:** [georgixxx.github.io](https://georgixxx.github.io) 
+
+---
+**[Back to Main Portfolio Website](https://georgixxx.github.io)**
