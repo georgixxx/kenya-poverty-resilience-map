@@ -1,0 +1,148 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Kenya,KEN,2022,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,40.49575
+Kenya,KEN,2020,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,50.81331
+Kenya,KEN,2018,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,50.81331
+Kenya,KEN,2016,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,50.81331
+Kenya,KEN,2014,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,52.35971
+Kenya,KEN,2012,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,53.90611
+Kenya,KEN,2010,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,55.45251
+Kenya,KEN,2008,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,56.99891
+Kenya,KEN,2006,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,58.54531
+Kenya,KEN,2004,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,60.09171
+Kenya,KEN,2002,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,61.63811
+Kenya,KEN,2000,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,63.18451
+Kenya,KEN,2022,Income share held by second 20%,SI.DST.02ND.20,11.1
+Kenya,KEN,2021,Income share held by second 20%,SI.DST.02ND.20,11
+Kenya,KEN,2020,Income share held by second 20%,SI.DST.02ND.20,11.4
+Kenya,KEN,2015,Income share held by second 20%,SI.DST.02ND.20,10.3
+Kenya,KEN,2005,Income share held by second 20%,SI.DST.02ND.20,9.1
+Kenya,KEN,1997,Income share held by second 20%,SI.DST.02ND.20,9.4
+Kenya,KEN,1994,Income share held by second 20%,SI.DST.02ND.20,10
+Kenya,KEN,1992,Income share held by second 20%,SI.DST.02ND.20,6.8
+Kenya,KEN,2022,Income share held by third 20%,SI.DST.03RD.20,14.8
+Kenya,KEN,2021,Income share held by third 20%,SI.DST.03RD.20,14.6
+Kenya,KEN,2020,Income share held by third 20%,SI.DST.03RD.20,15.4
+Kenya,KEN,2015,Income share held by third 20%,SI.DST.03RD.20,14.6
+Kenya,KEN,2005,Income share held by third 20%,SI.DST.03RD.20,13.4
+Kenya,KEN,1997,Income share held by third 20%,SI.DST.03RD.20,13.6
+Kenya,KEN,1994,Income share held by third 20%,SI.DST.03RD.20,14.6
+Kenya,KEN,1992,Income share held by third 20%,SI.DST.03RD.20,10.9
+Kenya,KEN,2022,Income share held by fourth 20%,SI.DST.04TH.20,21.3
+Kenya,KEN,2021,Income share held by fourth 20%,SI.DST.04TH.20,20.6
+Kenya,KEN,2020,Income share held by fourth 20%,SI.DST.04TH.20,21.8
+Kenya,KEN,2015,Income share held by fourth 20%,SI.DST.04TH.20,21.5
+Kenya,KEN,2005,Income share held by fourth 20%,SI.DST.04TH.20,20.4
+Kenya,KEN,1997,Income share held by fourth 20%,SI.DST.04TH.20,20.2
+Kenya,KEN,1994,Income share held by fourth 20%,SI.DST.04TH.20,21.3
+Kenya,KEN,1992,Income share held by fourth 20%,SI.DST.04TH.20,17.5
+Kenya,KEN,2022,Income share held by highest 20%,SI.DST.05TH.20,45.6
+Kenya,KEN,2021,Income share held by highest 20%,SI.DST.05TH.20,46.6
+Kenya,KEN,2020,Income share held by highest 20%,SI.DST.05TH.20,44.1
+Kenya,KEN,2015,Income share held by highest 20%,SI.DST.05TH.20,47.5
+Kenya,KEN,2005,Income share held by highest 20%,SI.DST.05TH.20,52.1
+Kenya,KEN,1997,Income share held by highest 20%,SI.DST.05TH.20,51.3
+Kenya,KEN,1994,Income share held by highest 20%,SI.DST.05TH.20,48.9
+Kenya,KEN,1992,Income share held by highest 20%,SI.DST.05TH.20,61.4
+Kenya,KEN,2022,Income share held by highest 10%,SI.DST.10TH.10,30.1
+Kenya,KEN,2021,Income share held by highest 10%,SI.DST.10TH.10,31.8
+Kenya,KEN,2020,Income share held by highest 10%,SI.DST.10TH.10,28.4
+Kenya,KEN,2015,Income share held by highest 10%,SI.DST.10TH.10,31.6
+Kenya,KEN,2005,Income share held by highest 10%,SI.DST.10TH.10,36.8
+Kenya,KEN,1997,Income share held by highest 10%,SI.DST.10TH.10,36.2
+Kenya,KEN,1994,Income share held by highest 10%,SI.DST.10TH.10,33.4
+Kenya,KEN,1992,Income share held by highest 10%,SI.DST.10TH.10,47.2
+Kenya,KEN,2022,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,8.8
+Kenya,KEN,2021,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,8.7
+Kenya,KEN,2020,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,10.3
+Kenya,KEN,2015,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,13.9
+Kenya,KEN,2005,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,16.9
+Kenya,KEN,1997,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,16.1
+Kenya,KEN,1994,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,17.6
+Kenya,KEN,1992,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,21.6
+Kenya,KEN,2022,Income share held by lowest 10%,SI.DST.FRST.10,2.9
+Kenya,KEN,2021,Income share held by lowest 10%,SI.DST.FRST.10,2.9
+Kenya,KEN,2020,Income share held by lowest 10%,SI.DST.FRST.10,3
+Kenya,KEN,2015,Income share held by lowest 10%,SI.DST.FRST.10,2.4
+Kenya,KEN,2005,Income share held by lowest 10%,SI.DST.FRST.10,1.8
+Kenya,KEN,1997,Income share held by lowest 10%,SI.DST.FRST.10,2.3
+Kenya,KEN,1994,Income share held by lowest 10%,SI.DST.FRST.10,1.9
+Kenya,KEN,1992,Income share held by lowest 10%,SI.DST.FRST.10,1.3
+Kenya,KEN,2022,Income share held by lowest 20%,SI.DST.FRST.20,7.2
+Kenya,KEN,2021,Income share held by lowest 20%,SI.DST.FRST.20,7.2
+Kenya,KEN,2020,Income share held by lowest 20%,SI.DST.FRST.20,7.3
+Kenya,KEN,2015,Income share held by lowest 20%,SI.DST.FRST.20,6.2
+Kenya,KEN,2005,Income share held by lowest 20%,SI.DST.FRST.20,5
+Kenya,KEN,1997,Income share held by lowest 20%,SI.DST.FRST.20,5.6
+Kenya,KEN,1994,Income share held by lowest 20%,SI.DST.FRST.20,5.2
+Kenya,KEN,1992,Income share held by lowest 20%,SI.DST.FRST.20,3.4
+Kenya,KEN,2022,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,46.9
+Kenya,KEN,2021,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,46.4
+Kenya,KEN,2020,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,44.4
+Kenya,KEN,2015,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,37.7
+Kenya,KEN,2005,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,44.6
+Kenya,KEN,1997,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,32.6
+Kenya,KEN,1994,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,32
+Kenya,KEN,1992,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,32
+Kenya,KEN,2022,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,14.1
+Kenya,KEN,2021,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,13.9
+Kenya,KEN,2020,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,13.7
+Kenya,KEN,2015,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,12
+Kenya,KEN,2005,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,16.6
+Kenya,KEN,1997,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,10.1
+Kenya,KEN,1994,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,11.6
+Kenya,KEN,1992,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,12.1
+Kenya,KEN,2022,Gini index,SI.POV.GINI,37.7
+Kenya,KEN,2021,Gini index,SI.POV.GINI,38.7
+Kenya,KEN,2020,Gini index,SI.POV.GINI,36.2
+Kenya,KEN,2015,Gini index,SI.POV.GINI,40.8
+Kenya,KEN,2005,Gini index,SI.POV.GINI,46.4
+Kenya,KEN,1997,Gini index,SI.POV.GINI,45
+Kenya,KEN,1994,Gini index,SI.POV.GINI,43.1
+Kenya,KEN,1992,Gini index,SI.POV.GINI,56.9
+Kenya,KEN,2022,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,67
+Kenya,KEN,2021,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,67.9
+Kenya,KEN,2020,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,65.6
+Kenya,KEN,2015,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,56.8
+Kenya,KEN,2005,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,61.9
+Kenya,KEN,1997,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,50.5
+Kenya,KEN,1994,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,50.6
+Kenya,KEN,1992,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,46.6
+Kenya,KEN,2022,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,26.7
+Kenya,KEN,2021,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,26.6
+Kenya,KEN,2020,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,25.8
+Kenya,KEN,2015,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,22.2
+Kenya,KEN,2005,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,27.2
+Kenya,KEN,1997,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,19.2
+Kenya,KEN,1994,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,20.2
+Kenya,KEN,1992,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,19.9
+Kenya,KEN,2022,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,39.8
+Kenya,KEN,2021,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,38.6
+Kenya,KEN,2020,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,42.9
+Kenya,KEN,2015,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,36.1
+Kenya,KEN,2005,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,46.8
+Kenya,KEN,1997,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,52.3
+Kenya,KEN,1994,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,40.3
+Kenya,KEN,1992,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,57.2
+Kenya,KEN,2022,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,90.9
+Kenya,KEN,2021,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,91.3
+Kenya,KEN,2020,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,91
+Kenya,KEN,2015,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,85.8
+Kenya,KEN,2005,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,87.5
+Kenya,KEN,1997,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,82.2
+Kenya,KEN,1994,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,83.3
+Kenya,KEN,1992,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,75
+Kenya,KEN,2022,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,53.9
+Kenya,KEN,2021,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,54.3
+Kenya,KEN,2020,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,53.6
+Kenya,KEN,2015,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,48
+Kenya,KEN,2005,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,52
+Kenya,KEN,1997,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,44
+Kenya,KEN,1994,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,45
+Kenya,KEN,1992,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,41.2
+Kenya,KEN,2021,"Survey mean consumption or income per capita, bottom 40% of population (2021 PPP $ per day)",SI.SPR.PC40,1.98
+Kenya,KEN,2015,"Survey mean consumption or income per capita, bottom 40% of population (2021 PPP $ per day)",SI.SPR.PC40,2.11
+Kenya,KEN,2021,"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",SI.SPR.PC40.ZG,-1.18
+Kenya,KEN,2021,"Survey mean consumption or income per capita, total population (2021 PPP $ per day)",SI.SPR.PCAP,4.34
+Kenya,KEN,2015,"Survey mean consumption or income per capita, total population (2021 PPP $ per day)",SI.SPR.PCAP,5.13
+Kenya,KEN,2021,"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",SI.SPR.PCAP.ZG,-3.09
